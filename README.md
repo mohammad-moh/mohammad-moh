@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30px  />
 </a>
 
-<a href="mohmmad.slamat84@gmail.com">
+<a href="https://mohmmad.slamat84@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"height=30px />
 </a>
 <!--  
